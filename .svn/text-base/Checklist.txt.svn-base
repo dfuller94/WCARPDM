@@ -1,0 +1,19 @@
+VERSION 1.1
+March 14, 2008
+Updated by: HLTV Proxy
+
+
+[ADD] Gas grenades
+[ADD] Auto Shotgun
+[ADD] Auto sniper rifle
+[CHANGE] Cop class no longer requires a vote
+[CHANGE] Removed the demote command
+[CHANGE] Changes to some of the default weapons players start with
+[CHANGE] Slightly lowered damage of pump shotgun
+[CHANGE] Lottery tickets now cost $100 by default
+[CHANGE] Lowered price of sniper rifle and para
+[FIX] Fixed lottery not always running
+
+1.0
+
+[FIX] Made the gamemode compatible with gmod update.
