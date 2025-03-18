@@ -1,0 +1,64 @@
+9
+
+dir
+94
+svn://67.228.112.218/svn/gamemodes/DarkRP/entities/effects
+svn://67.228.112.218/svn
+
+
+
+2008-07-06T18:21:37.447250Z
+56
+Proxy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d106eb32-e561-9e4e-b3b6-ec29a58b863d
+
+drug_bolt
+dir
+
+scanring
+dir
+
+bigbeam
+dir
+
+immolate
+dir
+
+flamepuffs
+dir
+
+drug_glow
+dir
+
+explosion_large
+dir
+
+laserbeam
+dir
+
+drug_trail
+dir
+
+cinematicexplosion
+dir
+
+chargebeam
+dir
+
+gaspuffs
+dir
+

@@ -1,0 +1,13 @@
+"Gamemode"
+{
+	"name"		"WCA RPDM"
+	"version"	"1.1"
+
+	"author_name"	"Rick Darkaliono / Rickster / HLTV Proxy"
+	"author_email"	""
+	"author_url"	""
+	
+	"icon"		""
+	"info"		""
+	"hide"		"0"
+}
